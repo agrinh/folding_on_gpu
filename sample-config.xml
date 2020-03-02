@@ -1,0 +1,15 @@
+<config>
+    <user value="<username>"/>
+    <team value="0"/>
+    <passkey value="<passkey>"/>
+    <fold-anon value="false"/>
+
+    <slot id='0' type='GPU'>
+      <gpu-index value='1'/>
+      <cuda-index value='1'/>
+    </slot>
+    <slot id='1' type='GPU'>
+      <gpu-index value='2'/>
+      <cuda-index value='2'/>
+    </slot>
+</config>
